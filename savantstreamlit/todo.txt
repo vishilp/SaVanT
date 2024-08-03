@@ -1,0 +1,16 @@
+SaVanT To Do
+1. Show p-values on heatmap
+2. Aglomerate clustering for heatmap
+3. Z-score heatmap / mean-centered heatmap
+4. Only show signficanty signatures
+5. Only display top x (50?) signatures
+6. Organize the code (move functions to different files)
+7. Add on the ability to upload gene expression matrices
+8. Exception handling (what to do if wrong doc formatting or don't upload matrix)
+9. Gene Expression matrix format instructions
+10. Currently importing all signatures to a dict, but maybe see if we can only import the ones needed
+
+Much later
+1. Work on signature display
+2. Fix duplicate signature names 
+3. Update signature database
